@@ -18,7 +18,8 @@ Runs entirely **client-side** with **no external servers**, ensuring complete pr
 ---
 
 ##  Screenshots  
-<img width="1375" height="809" alt="Screenshot 2025-12-04 at 00 37 44" src="https://github.com/user-attachments/assets/e215c50b-f6a1-4488-969d-9b5af68860bc" />
+
+<img width="1375" height="809" alt="Screenshot 2025-12-04 at 00 37 44" src="https://github.com/user-attachments/assets/cdb4ce25-7125-4634-b6b5-c376525807b7" />
 
 
 ---
